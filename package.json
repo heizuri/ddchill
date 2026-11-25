@@ -1,0 +1,8 @@
+{
+  "name": "ddchill-site",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
